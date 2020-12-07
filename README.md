@@ -8,6 +8,7 @@ It aimed to support to presention with a projected Windows display by projector.
 If the user move own hand to up, the cursor will move to up too. Of course, Any direction is too.<br/>
 In the side watching Kinect, if the user's hand go to left or right, the cursor will move like reverted horizontally.<br/>
 Because we anticipated the displaying screen's location to behind of the user.<br/>
+Clenching the user's fist occurs a mouse left click event.
 
 
 I wanna give you more visible information, but the document outputs for results are disappeared so I feel some hard to describing. ;(
